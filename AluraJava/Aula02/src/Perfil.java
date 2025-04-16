@@ -51,6 +51,5 @@ class original{
         double valorDesconto = (desconto / 100) * precoOriginal;
         double precoFinal = precoOriginal - valorDesconto;
         System.out.println(precoFinal);
-
     }
 }
